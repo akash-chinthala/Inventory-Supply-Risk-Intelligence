@@ -1,0 +1,11 @@
+product_id,product_name,supplier_id,supplier_name,stock_quantity,order_quantity,order_date,expected_delivery,actual_delivery
+1,Laptop,101,Supplier_A,50,20,2025-01-01,2025-01-05,2025-01-06
+2,Mouse,102,Supplier_B,10,50,2025-01-02,2025-01-06,2025-01-10
+3,Keyboard,101,Supplier_A,5,30,2025-01-03,2025-01-07,2025-01-07
+4,Monitor,103,Supplier_C,70,10,2025-01-04,2025-01-08,2025-01-12
+5,Printer,104,Supplier_D,15,20,2025-01-05,2025-01-09,2025-01-09
+6,Tablet,102,Supplier_B,8,40,2025-01-06,2025-01-10,2025-01-15
+7,Phone,101,Supplier_A,60,25,2025-01-07,2025-01-11,2025-01-11
+8,Headphones,103,Supplier_C,12,15,2025-01-08,2025-01-12,2025-01-14
+9,Camera,104,Supplier_D,20,10,2025-01-09,2025-01-13,2025-01-13
+10,Speaker,102,Supplier_B,3,35,2025-01-10,2025-01-14,2025-01-20
