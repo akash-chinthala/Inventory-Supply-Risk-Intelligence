@@ -51,6 +51,8 @@ The dataset includes:
     * Low Risk
 
 📊 Dashboard Insights
+
+![Dashboard](Power%20Bi%20Dash/dash_img.png)
 🔹 KPIs
 * Total Orders
 * Delayed Orders
